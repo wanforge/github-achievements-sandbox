@@ -1,2 +1,3 @@
-# github-achievements-sandbox
-Temporary sandbox for GitHub achievements
+# wan-playground
+
+Personal experimental playground & lab.
